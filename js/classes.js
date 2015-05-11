@@ -7,7 +7,7 @@ class Pessoa{
 		this.peso = peso;
 	}
 	info() {
-		console.log('Nome: ' + this.nome + '; \nIdade: ' + this.idade + '; \nAltura: ' + this.altura + '; \nPeso: ' + this.peso);
+		console.log('Nome: ' + this.nome + '; Idade: ' + this.idade + '; Altura: ' + this.altura + '; Peso: ' + this.peso);
 	}
 }
 
