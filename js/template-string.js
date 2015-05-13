@@ -17,4 +17,4 @@ let altura = 1.87;
 //var + expression
 console.log(`Peso: ${peso}
 Altura: ${altura}
-IMC: ${parseInt( peso / ( Math.pow(altura, 2) ) ) }`);
+IMC: ${ parseInt( peso / ( Math.pow(altura, 2) ) ) }`);
